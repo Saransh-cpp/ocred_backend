@@ -1,6 +1,7 @@
-uvicorn==0.15.0
-fastapi==0.70.0
-pydantic==1.8.2
+uvicorn
+fastapi
+pydantic
 aiofiles==0.7.0
 python-multipart==0.0.5
-git+https://github.com/AI-View/OCR@main
+ocred
+nltk

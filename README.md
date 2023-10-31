@@ -1,6 +1,6 @@
 # Backend
 
-Base repository for the backend API of `AiView`.
+Base repository for the backend API of `OCRed`.
 
 ## Running locally
 1. Create a virtual environment
